@@ -1,0 +1,61 @@
+/*
+*{
+    border: 1px;
+    border-style: dotted;
+}
+*/
+
+/* EDITANDO EstructuraSemántica.html */
+
+@import url('https://fonts.googleapis.com/css2?family=Caacupe+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+html{
+    font-size: 20px;
+}
+
+body{
+    /* background-image: url(../img/fondo\ claro.webp);
+    background-repeat: no-repeat; */       /*Normalmente las imágenes se repiten, con no-repeat solo aparece una vez*/
+    background: #05adf5;
+    background: #05adf5;
+    background: linear-gradient(90deg,rgba(5, 173, 245, 1) 0%, rgba(50, 195, 204, 1) 0%, rgba(70, 205, 185, 1) 0%, rgba(104, 222, 153, 1) 0%, rgba(161, 221, 123, 1) 0%, rgba(185, 221, 110, 1) 0%, rgba(252, 227, 0, 1) 0%, rgba(0, 0, 0, 1) 51%, rgba(8, 0, 255, 1) 100%);
+    color: #2b2b2b;
+    font-family: "Roboto", sans-serif;
+}
+
+header{
+    background-color: #123B7A;
+    color: white;
+    text-align: center; 
+}
+
+header h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+}
+
+nav{
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.container{
+    max-width: 760px;
+    padding: 20px;
+    margin: 30px auto;
+}
+
+.container article{
+    background-color: rgb(253, 241, 250);
+    padding: 20px;
+}
+
+footer{
+    background-color: #123B7A;
+    color: #F3F4F6;
+    text-align: center;
+    padding: 20px
+}
+
+
